@@ -1,0 +1,11 @@
+exclude_paths:
+  - "**/__pycache__/"
+  - "**/*.md"
+  
+tools:
+  - name: Coverage
+    enabled: true
+  - name: Code Complexity
+    enabled: true
+  - name: Code Duplication
+    enabled: true
