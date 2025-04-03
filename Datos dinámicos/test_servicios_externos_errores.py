@@ -1,5 +1,7 @@
 import responses 
 import requests  # Para hacer llamadas HTTP
+
+#Probar cómo maneja el código los errores de API (ej: 404, 500).
 @responses.activate
 def test_api_error_handling():
     # Mockear un error 500
