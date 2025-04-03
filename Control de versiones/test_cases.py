@@ -90,3 +90,8 @@ def test(function, arguments, expected):
 if __name__ == "__main__":
     for requirement in range(len(FUNCTIONS)):
         test(FUNCTIONS[requirement], INPUTS[requirement], RESULTS[requirement])
+
+
+"""
+Ejecución: Botón de ejecutar 
+"""

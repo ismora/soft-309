@@ -399,5 +399,3 @@ def dias_habiles_entre(fecha1,fecha2):
         return cont
     else:
         return "Fecha invalida"
-
-#"D:\Cursos\Ingeniería en computación\Aseguramiento\IIS2018\Asignaciones\IC-6831 2018-1 Asignación 3\Asignación 3 - 2014071807 - 2015017726 - 2015183024\código fuente\calendario_gregoriano.py"
