@@ -21,5 +21,7 @@ Cobertura completa: Se prueban combinaciones de:
 4.Casos válidos e inválidos mezclados
 
 Para agregar un nuevo tipo de error (por ejemplo: validar longitud del nombre). Solo se modifica la función registrar_usuario y no los tests
+
+pytest '.\testAdd.py' -v
 """
 
