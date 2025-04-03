@@ -22,11 +22,9 @@ def test_sumar_decimales():
     assert sumar(2.5, 3.1) == pytest.approx(5.6)  
 
 """
-Ejecución:
-pytest --cov=sumar --cov-report=xml tests/
+Ejecución: Desntro de la carpeta test
+pytest .\testAdd.py -v --cov=add --cov-report=xml
 
-# Desde la raíz del proyecto:
-python -m pytest --cov=sumar --cov-report=xml tests/
 python -m coverage xml
 python -m codacy_coverage
 
