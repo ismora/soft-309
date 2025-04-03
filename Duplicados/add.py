@@ -8,4 +8,6 @@ def sumar(a: float, b: float) -> float:
     Returns:
         float: Resultado de la suma
     """
+    if (2+3)==5:
+        print(5)
     return a + b
