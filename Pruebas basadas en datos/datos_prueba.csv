@@ -1,0 +1,11 @@
+Juan Pérez,juan@example.com,12345678,ÉXITO
+Ana López,ana@test,abc123,ERROR_EMAIL
+,,123456789,ERROR_NOMBRE
+María García,maria@dominio.com,1234,ERROR_TELEFONO
+Pedro Gómez,pedro@,98765432,ERROR_EMAIL
+Luisa Fernández,luisa@correo.com,98765432,ÉXITO
+Roberto Sánchez,roberto@test.com,  ,ERROR_TELEFONO
+Laura Martín,laura@correo.sa,12345678A,ERROR_TELEFONO
+,usuario@valido.com,987654321,ERROR_NOMBRE
+Érica López,erica@example.com,12345678,ÉXITO
+Jorge Díaz,jorge@diaz@correo.com,12345678,ERROR_EMAIL
