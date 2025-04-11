@@ -9,3 +9,4 @@ Laura Martín,laura@correo.sa,12345678A,ERROR_TELEFONO
 ,usuario@valido.com,987654321,ERROR_NOMBRE
 Érica López,erica@example.com,12345678,ÉXITO
 Jorge Díaz,jorge@diaz@correo.com,12345678,ERROR_EMAIL
+Algo,algo@gmail.com,123algo345,ERROR_TELEFONO
