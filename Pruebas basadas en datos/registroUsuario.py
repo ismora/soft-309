@@ -17,4 +17,6 @@ def registrar_usuario(nombre: str, email: str, telefono: str) -> str:
         return "ERROR_TELEFONO"
     
     return "ÉXITO"
+  # Validación básica de email
+
 
