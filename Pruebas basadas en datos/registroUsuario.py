@@ -1,6 +1,7 @@
 import re
 
 # Registrar un usuario si los datos son válidos.
+# Comentario prueba Luis
 def registrar_usuario(nombre: str, email: str, telefono: str) -> str:
     
     # Validación de nombre no vacío
@@ -16,4 +17,6 @@ def registrar_usuario(nombre: str, email: str, telefono: str) -> str:
         return "ERROR_TELEFONO"
     
     return "ÉXITO"
+  # Validación básica de email
+
 
